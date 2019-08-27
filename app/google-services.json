@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "924007633799",
+    "firebase_url": "https://pizza-a39ae.firebaseio.com",
+    "project_id": "pizza-a39ae",
+    "storage_bucket": "pizza-a39ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924007633799:android:ebac3ad9a682e473",
+        "android_client_info": {
+          "package_name": "curso.carlos.pizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924007633799-66eblvghodlgj60dm324qn0q41l8m95p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtt4OnMnq6zgUEsWPyCTBc4ceyw8mK8pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924007633799-66eblvghodlgj60dm324qn0q41l8m95p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
